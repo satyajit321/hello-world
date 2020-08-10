@@ -1,2 +1,3 @@
 # hello-world
-This is tutorial on how to use GitHub
+
+Coding is the way to enlightenment!
